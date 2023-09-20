@@ -29,7 +29,7 @@
     "body-parser": "^1.20.2",
     "cors": "^2.8.5",
     "express": "^4.17.3",
-    "node-fetch": "^3.2.4",
+    "node-fetch": "^2.6.12",
     "request": "^2.88.2",
     "typescript": "^4.7.4",
     "xhr2": "^0.2.1",
